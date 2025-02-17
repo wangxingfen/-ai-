@@ -1,0 +1,4 @@
+wxauto
+openai
+pyinstaller
+tk
